@@ -548,4 +548,14 @@ p {
 .footer-content-d a:hover {
   color: var(--primary-color);
 }
+.footer-credit p {
+  text-align: right;
+}
+.footer-credit p a {
+  color: #fff;
+}
+.athour-name {
+  color: #ffd532;
+}
+
 /* Footer Section End */
